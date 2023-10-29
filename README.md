@@ -1,7 +1,7 @@
 ### Hii This is Himanshu Gupta An Aspiring Full Stack Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhimanshuu&label=Profile%20views&color=0e75b6&style=flat" alt="devhimanshuu" /> </p>
 
-HacktoberFest 2023
+HacktoberFest-2023
 [![An image of @himanshuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuu)](https://holopin.io/@himanshuu)
 
 [![devhimanshuu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devhimanshuu&bg_color=000000&color=86fee0&line=f70808&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
