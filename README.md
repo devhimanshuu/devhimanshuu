@@ -6,13 +6,8 @@ HacktoberFest-2023
 
 
 
-<div>
+<span>
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devhimanshuu&show_icons=true&locale=en&theme=github_dark_dimmed&v1&rank_icon=github" alt="devhimanshuu" /></a>
-<a ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=devhimanshuu&theme=github_dark_dimmed" alt="devhimanshuu" /></a>
-
-</div>
-
-
-
-
-
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhimanshuu&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="devhimanshuu" /></span>
+<center ><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=devhimanshuu&theme=github_dark_dimmed" alt="devhimanshuu" /></center>
+</span>
