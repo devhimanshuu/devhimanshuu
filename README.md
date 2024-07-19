@@ -3,7 +3,7 @@
 
 HacktoberFest-2023
 [![An image of @himanshuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuu)](https://holopin.io/@himanshuu)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devhimanshuu&bg_color=000000&color=ec1818&line=445d0e&point=dee203&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devhimanshuu&bg_color=000000&color=ec1818&line=445d0e&point=dee203&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <span>
