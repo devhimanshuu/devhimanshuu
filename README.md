@@ -11,7 +11,7 @@ Currently Working as Full Stack AI Developer Intern at [VEGAH](https://vegah.com
 Looking for Good Full Time Opportunity Which can turn me as a great developer and contributor for crazy tech products. I believe in AI driven development for delivering quick tech product in market
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My-journey](http://himanshugupta-3dportfolio.vercel.app/)
+* 🖥️  See my portfolio at [My-journey](http://himanshuguptaa.vercel.app/)
 * ✉️  You can contact me at [devhimanshuu@gmail.com](mailto:devhimanshuu@gmail.com)
 * 🚀  I'm currently working on [AsyncFlowState](http://github.com/devhimanshuu/asyncflowstate)
 * 🧠  I'm currently learning System Design, Agentic AI, DevOps
