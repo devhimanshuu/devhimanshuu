@@ -37,3 +37,8 @@ src="https://img.shields.io/twitter/follow/devhimanshuu?logo=twitter&style=for-t
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devhimanshuu&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devhimanshuu&theme=aura" height="180em" />
 </div>
+<div>
+  
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+</div>
