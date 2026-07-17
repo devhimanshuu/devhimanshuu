@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack AI Developer
 -----------------------
 
-Currently Working as Full Stack AI Developer at [VEGAH](https://vegah.com)
+Currently Working as Junior Product Developer at [VEGAH](https://vegah.com)
 
 Looking for Good Full Time Opportunity Which can turn me as a great developer and contributor for crazy tech products. I believe in AI driven development for delivering quick tech product in market
 
