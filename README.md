@@ -13,7 +13,7 @@ Looking for Good Full Time Opportunity Which can turn me as a great developer an
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My-journey](http://himanshuguptaa.vercel.app/)
 * ✉️  You can contact me at [devhimanshuu@gmail.com](mailto:devhimanshuu@gmail.com)
-* 🚀  I'm currently working on [RAG-Labs](https://github.com/devhimanshuu/RAG-Labs), [Agent-Studio](https://github.com/devhimanshuu/Agent-Studio), [Context-Graph](https://github.com/devhimanshuu/Context-Graph), [Orqestra](https://github.com/devhimanshuu/Orqestra)
+* 🚀  I'm currently working on [RAG-Labs](https://github.com/devhimanshuu/RAG-Labs), [Context-Graph](https://github.com/devhimanshuu/Context-Graph), [Orqestra](https://github.com/devhimanshuu/Orqestra)
 * 🧠  I'm currently learning System Design, Agentic AI, DevOps
 * 💬  Fun Fact: I am good prompt Engineer too
 
